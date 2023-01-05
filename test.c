@@ -1,4 +1,4 @@
-#include"game02.h"
+#include"game.h"
 void menu()
 {
 	printf("************************\n");
