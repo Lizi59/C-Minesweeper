@@ -1,4 +1,4 @@
-#include"game02.h"
+#include"game.h"
 void InitBoard(char board[ROWS][COLS], int rows, int cols,char set)
 {
 	int i = 0;
